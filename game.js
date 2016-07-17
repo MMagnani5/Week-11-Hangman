@@ -1,0 +1,1 @@
+exports.wordBank = ["mantle", "ruth", "yogi", "jeter"];

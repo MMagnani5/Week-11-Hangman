@@ -1,0 +1,22 @@
+{
+  "name": "week-11-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMagnani5/Week-11-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMagnani5/Week-11-Hangman/issues"
+  },
+  "homepage": "https://github.com/MMagnani5/Week-11-Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
